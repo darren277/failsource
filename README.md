@@ -10,12 +10,13 @@ If the sender of the e-mail is in your Salesforce leads, then it will assign the
 ## How to Use
 
 1. Clone the repo.
-2. Enable Gmail API and create and download an OAuth credentials file.
-3. Have a Salesforce account with third party API access enabled and place credentials, including security token, into `.env` file.
-4. Run `pip install -r requirements.txt` to install dependencies.
-5. Run `python main.py` to run the program.
-6. ???
-7. Profit.
+2. Have AWS credentials and know the pricing for Comprehend sentiment analysis.
+3. Enable Gmail API and create and download an OAuth credentials file.
+4. Have a Salesforce account with third party API access enabled and place credentials, including security token, into `.env` file.
+5. Run `pip install -r requirements.txt` to install dependencies.
+6. Run `python main.py` to run the program.
+7. ???
+8. Profit.
 
 
 ## Future Plans
