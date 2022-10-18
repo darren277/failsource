@@ -21,6 +21,11 @@ If the sender of the e-mail is in your Salesforce leads, then it will assign the
 10. Profit.
 
 
+## Testing
+
+![Example](example.png)
+
+
 ## Future Plans
 
 Still deciding... 🤔...
