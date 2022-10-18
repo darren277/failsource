@@ -14,14 +14,22 @@ If the sender of the e-mail is in your Salesforce leads, then it will assign the
 3. Enable Gmail API and create and download an OAuth credentials file.
 4. Have a Salesforce account with third party API access enabled and place credentials, including security token, into `.env` file.
 5. Run `pip install -r requirements.txt` to install dependencies.
-6. Run `python main.py` to run the program.
-7. ???
-8. Profit.
+6. Run `python src/utils.py` to create the custom sentiment rating field in Salesforce.
+7. Enable field visibility for the custom sentiment rating field in Salesforce.
+8. Run `python main.py` to run the main program.
+9. ???
+10. Profit.
 
 
 ## Future Plans
 
 Still deciding... 🤔...
+
+Definitely would like to make that one step of enabling field visibility in Salesforce programmatic...
+
+And maybe some kind of simple frontend...?
+
+
 
 
 
